@@ -1,3 +1,3 @@
-# Muhamad Alif Rizki
+# alif r
 
 I'm learning programming at Polinema.
